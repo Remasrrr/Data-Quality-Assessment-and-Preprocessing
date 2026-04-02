@@ -6,3 +6,8 @@ This notebook demonstrates:
 - Outlier detection using IQR
 - Normalization using Min-Max and Z-score
 - PCA after checking correlation
+
+
+
+
+Add README
