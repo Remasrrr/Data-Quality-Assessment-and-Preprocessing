@@ -7,7 +7,3 @@ This notebook demonstrates:
 - Normalization using Min-Max and Z-score
 - PCA after checking correlation
 
-
-
-
-Add README
